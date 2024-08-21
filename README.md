@@ -52,11 +52,5 @@ The GUI for the plugin is handled in this file. It includes the creation of the 
 
 Once compiled, the plugin can be loaded into any DAW that supports VST3/AU plugins. The user can adjust the frequency bands, slopes, and bypass states directly from the plugin's interface.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Authors
-
-- Your Name (or your organization)
 
